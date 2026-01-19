@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Aditya 👋
 
-<!--
-**adityabghadge/adityabghadge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer focused on building reliable backend and distributed systems using Python.
 
-Here are some ideas to get you started:
+### What I work on
+- Backend services and REST APIs (FastAPI)
+- Asynchronous processing and background workers
+- Reliability, retries, and fault-tolerant system design
+- Cloud-native applications using AWS and Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **ShipTrack** – Uptime monitoring and incident alerting system  
+- **EventFlow** – Reliable webhook delivery and event processing platform  
+- **DocuSearch** – Semantic document search and retrieval (RAG-lite)
+
+### Tech Stack
+Python · FastAPI · PostgreSQL · Redis · Celery · Docker · AWS
+
+📫 Reach me at: aditya.b.ghadge3177@gmail.com
+
