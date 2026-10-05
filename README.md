@@ -1,6 +1,6 @@
 ## Hi, I'm Aditya 👋
 
-I'm a Software Engineer focused on building reliable backend and distributed systems using Python.
+I'm a Software Engineer focused on building reliable backend and distributed systems.
 
 ### What I work on
 - Backend services and REST APIs (FastAPI)
@@ -14,7 +14,7 @@ I'm a Software Engineer focused on building reliable backend and distributed sys
 - **DocuSearch** – Semantic document search and retrieval (RAG-lite)
 
 ### Tech Stack
-Python · FastAPI · PostgreSQL · Redis · Celery · Docker · AWS
+Python · Java ·FastAPI · PostgreSQL · Oracle · Redis · Celery · Docker · AWS
 
 📫 Reach me at: aditya.b.ghadge3177@gmail.com
 
